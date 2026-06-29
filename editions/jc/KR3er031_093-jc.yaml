@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3er031/jc/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之九十三卷之九十三
+  hash: sha256:8abc1452c4face55113f51366f6abcd8235b53c79e4b5729dfd95940f650b2c7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3er031_jc_093-d105.h1s1}
+  - {type: 'tls:head', offset: 5, content: '', id: KR3er031_jc_093-d106.h1s1}
+metadata:
+  title: 古今醫統大全
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er031.xml
+hash: sha256:748f340a6c2ee1c79f5cb107414356c4272a5da5c6ca9493e34f81b2eedd9688
