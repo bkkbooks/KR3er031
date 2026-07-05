@@ -2457,10 +2457,9 @@ markers:
   - {type: 'tls:seg', offset: 4010, content: '', id: KR3er031_jc_051-d63.d3.d5.d106.p16s2}
   - {type: punctuation, offset: 4015, content: 。, id: KR3er031_jc_051-bkkpn958}
   - {type: 'tls:seg', offset: 4015, content: '', id: KR3er031_jc_051-d63.d3.d5.d106.p16s3}
-  - {type: substitution, offset: 4021, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0018}}
   - {type: punctuation, offset: 4024, content: ，, id: KR3er031_jc_051-bkkpn959}
   - {type: 'tls:seg', offset: 4024, content: '', id: KR3er031_jc_051-d63.d3.d5.d106.p16s4}
   - {type: punctuation, offset: 4031, content: 。, id: KR3er031_jc_051-bkkpn960}
   - {type: xml-element, offset: 4031, content: '', id: KR3er031_jc_051-d63.d3.d5.d106p16_end, name: p, role: close, attrs: {'xml:id': KR3er031_jc_051-d63.d3.d5.d106p16}}
   back: []
-hash: sha256:e9794ed7be8d6f80635565ee7b06306bf40bc1488ac9f2d24cf7efad0823eb2d
+hash: sha256:d84d8f63d7b214fae90aacb69e20688a0c17146bba448a7fe3d028182d2a767c
